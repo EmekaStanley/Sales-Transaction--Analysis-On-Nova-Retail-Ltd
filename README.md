@@ -18,7 +18,8 @@ Benchmark & develop sales team
 
 ## Data Understanding
 Dataset: Sales transactions across Nigerian cities
-## Key Attributes: City, Category, Customer Type, Sales Rep, Units, Price, Revenue, Date
+## Key Attributes: 
+City, Category, Customer Type, Sales Rep, Units, Price, Revenue, Date
 Timeframe: Up to September 2024
 Derived Metrics: Avg. revenue per customer, repeat purchases, seasonal trends
 
