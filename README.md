@@ -1,5 +1,6 @@
 <img width="569" height="293" alt="Screenshot 2025-08-20 134406" src="https://github.com/user-attachments/assets/9c6c7a1e-2a0c-45b4-a034-24f30a16adec" />
 <img width="584" height="287" alt="Screenshot 2025-08-20 134301" src="https://github.com/user-attachments/assets/4769fe8c-6459-49d3-9e70-5f137026847e" />
+
 ## Sales-Transaction--Analysis-On-Nova-Retail-Ltd
 The dataset contains 110 retail sales records across 11 fields, covering transactions by city, customer type, and product category. It is clean and structured, making it ideal for Power BI analysis of revenue trends, customer behavior, product performance, and discount impact.
 
